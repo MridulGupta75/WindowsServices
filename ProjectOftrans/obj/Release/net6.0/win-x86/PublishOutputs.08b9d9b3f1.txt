@@ -1,0 +1,4 @@
+C:\Users\gupta\Downloads\Project Of Transisation Computing\ProjectOftrans\publish\appsettings.Development.json
+C:\Users\gupta\Downloads\Project Of Transisation Computing\ProjectOftrans\publish\appsettings.json
+C:\Users\gupta\Downloads\Project Of Transisation Computing\ProjectOftrans\publish\ProjectOftrans.pdb
+C:\Users\gupta\Downloads\Project Of Transisation Computing\ProjectOftrans\publish\ProjectOftrans.exe
